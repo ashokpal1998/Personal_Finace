@@ -1,0 +1,11 @@
+.scroll-line {
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    transform: translate(-100%, -100%);
+    width: 5px;
+  
+    background-color: blue;
+    
+  
+}
